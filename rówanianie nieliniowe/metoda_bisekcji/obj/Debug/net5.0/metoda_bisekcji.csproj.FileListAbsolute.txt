@@ -1,0 +1,16 @@
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\bin\Debug\net5.0\metoda_bisekcji.exe
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\bin\Debug\net5.0\metoda_bisekcji.deps.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\bin\Debug\net5.0\metoda_bisekcji.runtimeconfig.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\bin\Debug\net5.0\metoda_bisekcji.runtimeconfig.dev.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\bin\Debug\net5.0\metoda_bisekcji.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\bin\Debug\net5.0\ref\metoda_bisekcji.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\bin\Debug\net5.0\metoda_bisekcji.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\obj\Debug\net5.0\metoda_bisekcji.csproj.AssemblyReference.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\obj\Debug\net5.0\metoda_bisekcji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\obj\Debug\net5.0\metoda_bisekcji.AssemblyInfoInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\obj\Debug\net5.0\metoda_bisekcji.AssemblyInfo.cs
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\obj\Debug\net5.0\metoda_bisekcji.csproj.CoreCompileInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\obj\Debug\net5.0\metoda_bisekcji.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\obj\Debug\net5.0\ref\metoda_bisekcji.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\obj\Debug\net5.0\metoda_bisekcji.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\metoda_bisekcji\obj\Debug\net5.0\metoda_bisekcji.genruntimeconfig.cache

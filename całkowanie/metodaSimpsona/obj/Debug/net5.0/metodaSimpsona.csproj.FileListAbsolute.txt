@@ -1,0 +1,16 @@
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\bin\Debug\net5.0\metodaSimpsona.exe
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\bin\Debug\net5.0\metodaSimpsona.deps.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\bin\Debug\net5.0\metodaSimpsona.runtimeconfig.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\bin\Debug\net5.0\metodaSimpsona.runtimeconfig.dev.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\bin\Debug\net5.0\metodaSimpsona.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\bin\Debug\net5.0\ref\metodaSimpsona.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\bin\Debug\net5.0\metodaSimpsona.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\obj\Debug\net5.0\metodaSimpsona.csproj.AssemblyReference.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\obj\Debug\net5.0\metodaSimpsona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\obj\Debug\net5.0\metodaSimpsona.AssemblyInfoInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\obj\Debug\net5.0\metodaSimpsona.AssemblyInfo.cs
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\obj\Debug\net5.0\metodaSimpsona.csproj.CoreCompileInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\obj\Debug\net5.0\metodaSimpsona.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\obj\Debug\net5.0\ref\metodaSimpsona.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\obj\Debug\net5.0\metodaSimpsona.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaSimpsona\obj\Debug\net5.0\metodaSimpsona.genruntimeconfig.cache

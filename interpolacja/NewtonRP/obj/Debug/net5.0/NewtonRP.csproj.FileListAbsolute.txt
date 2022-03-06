@@ -1,0 +1,16 @@
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\obj\Debug\net5.0\NewtonRP.csproj.AssemblyReference.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\obj\Debug\net5.0\NewtonRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\obj\Debug\net5.0\NewtonRP.AssemblyInfoInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\obj\Debug\net5.0\NewtonRP.AssemblyInfo.cs
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\obj\Debug\net5.0\NewtonRP.csproj.CoreCompileInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\bin\Debug\net5.0\NewtonRP.exe
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\bin\Debug\net5.0\NewtonRP.deps.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\bin\Debug\net5.0\NewtonRP.runtimeconfig.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\bin\Debug\net5.0\NewtonRP.runtimeconfig.dev.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\bin\Debug\net5.0\NewtonRP.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\bin\Debug\net5.0\ref\NewtonRP.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\bin\Debug\net5.0\NewtonRP.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\obj\Debug\net5.0\NewtonRP.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\obj\Debug\net5.0\ref\NewtonRP.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\obj\Debug\net5.0\NewtonRP.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\NewtonRP\obj\Debug\net5.0\NewtonRP.genruntimeconfig.cache

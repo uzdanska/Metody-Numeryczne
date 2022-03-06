@@ -1,0 +1,16 @@
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\bin\Debug\net5.0\Lagrange.exe
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\bin\Debug\net5.0\Lagrange.deps.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\bin\Debug\net5.0\Lagrange.runtimeconfig.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\bin\Debug\net5.0\Lagrange.runtimeconfig.dev.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\bin\Debug\net5.0\Lagrange.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\bin\Debug\net5.0\ref\Lagrange.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\bin\Debug\net5.0\Lagrange.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\obj\Debug\net5.0\Lagrange.csproj.AssemblyReference.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\obj\Debug\net5.0\Lagrange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\obj\Debug\net5.0\Lagrange.AssemblyInfoInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\obj\Debug\net5.0\Lagrange.AssemblyInfo.cs
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\obj\Debug\net5.0\Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\obj\Debug\net5.0\Lagrange.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\obj\Debug\net5.0\ref\Lagrange.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\obj\Debug\net5.0\Lagrange.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\Lagrange\obj\Debug\net5.0\Lagrange.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\bin\Debug\net5.0\sieczne.exe
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\bin\Debug\net5.0\sieczne.deps.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\bin\Debug\net5.0\sieczne.runtimeconfig.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\bin\Debug\net5.0\sieczne.runtimeconfig.dev.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\bin\Debug\net5.0\sieczne.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\bin\Debug\net5.0\ref\sieczne.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\bin\Debug\net5.0\sieczne.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\obj\Debug\net5.0\sieczne.csproj.AssemblyReference.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\obj\Debug\net5.0\sieczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\obj\Debug\net5.0\sieczne.AssemblyInfoInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\obj\Debug\net5.0\sieczne.AssemblyInfo.cs
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\obj\Debug\net5.0\sieczne.csproj.CoreCompileInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\obj\Debug\net5.0\sieczne.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\obj\Debug\net5.0\ref\sieczne.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\obj\Debug\net5.0\sieczne.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\sieczne\obj\Debug\net5.0\sieczne.genruntimeconfig.cache

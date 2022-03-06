@@ -1,0 +1,16 @@
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\bin\Debug\net5.0\stycznych_Newtona.exe
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\bin\Debug\net5.0\stycznych_Newtona.deps.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\bin\Debug\net5.0\stycznych_Newtona.runtimeconfig.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\bin\Debug\net5.0\stycznych_Newtona.runtimeconfig.dev.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\bin\Debug\net5.0\stycznych_Newtona.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\bin\Debug\net5.0\ref\stycznych_Newtona.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\bin\Debug\net5.0\stycznych_Newtona.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\obj\Debug\net5.0\stycznych_Newtona.csproj.AssemblyReference.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\obj\Debug\net5.0\stycznych_Newtona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\obj\Debug\net5.0\stycznych_Newtona.AssemblyInfoInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\obj\Debug\net5.0\stycznych_Newtona.AssemblyInfo.cs
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\obj\Debug\net5.0\stycznych_Newtona.csproj.CoreCompileInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\obj\Debug\net5.0\stycznych_Newtona.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\obj\Debug\net5.0\ref\stycznych_Newtona.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\obj\Debug\net5.0\stycznych_Newtona.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\rownania_nieliniowe\stycznych_Newtona\obj\Debug\net5.0\stycznych_Newtona.genruntimeconfig.cache

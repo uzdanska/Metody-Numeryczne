@@ -1,0 +1,16 @@
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\bin\Debug\net5.0\metodaIteracjiProstych.exe
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\bin\Debug\net5.0\metodaIteracjiProstych.deps.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\bin\Debug\net5.0\metodaIteracjiProstych.runtimeconfig.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\bin\Debug\net5.0\metodaIteracjiProstych.runtimeconfig.dev.json
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\bin\Debug\net5.0\metodaIteracjiProstych.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\bin\Debug\net5.0\ref\metodaIteracjiProstych.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\bin\Debug\net5.0\metodaIteracjiProstych.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\obj\Debug\net5.0\metodaIteracjiProstych.csproj.AssemblyReference.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\obj\Debug\net5.0\metodaIteracjiProstych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\obj\Debug\net5.0\metodaIteracjiProstych.AssemblyInfoInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\obj\Debug\net5.0\metodaIteracjiProstych.AssemblyInfo.cs
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\obj\Debug\net5.0\metodaIteracjiProstych.csproj.CoreCompileInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\obj\Debug\net5.0\metodaIteracjiProstych.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\obj\Debug\net5.0\ref\metodaIteracjiProstych.dll
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\obj\Debug\net5.0\metodaIteracjiProstych.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Informatyka i Ekonometria\Metodynumeryczna\metodaIteracjiProstych\obj\Debug\net5.0\metodaIteracjiProstych.genruntimeconfig.cache

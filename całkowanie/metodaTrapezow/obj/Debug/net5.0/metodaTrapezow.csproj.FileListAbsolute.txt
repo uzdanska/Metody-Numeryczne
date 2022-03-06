@@ -1,0 +1,16 @@
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\bin\Debug\net5.0\metodaTrapezow.exe
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\bin\Debug\net5.0\metodaTrapezow.deps.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\bin\Debug\net5.0\metodaTrapezow.runtimeconfig.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\bin\Debug\net5.0\metodaTrapezow.runtimeconfig.dev.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\bin\Debug\net5.0\metodaTrapezow.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\bin\Debug\net5.0\ref\metodaTrapezow.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\bin\Debug\net5.0\metodaTrapezow.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\obj\Debug\net5.0\metodaTrapezow.csproj.AssemblyReference.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\obj\Debug\net5.0\metodaTrapezow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\obj\Debug\net5.0\metodaTrapezow.AssemblyInfoInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\obj\Debug\net5.0\metodaTrapezow.AssemblyInfo.cs
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\obj\Debug\net5.0\metodaTrapezow.csproj.CoreCompileInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\obj\Debug\net5.0\metodaTrapezow.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\obj\Debug\net5.0\ref\metodaTrapezow.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\obj\Debug\net5.0\metodaTrapezow.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\calkowanie\metodaTrapezow\obj\Debug\net5.0\metodaTrapezow.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "stycznych_Newtona/1.0.0": {
+        "runtime": {
+          "stycznych_Newtona.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "stycznych_Newtona/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

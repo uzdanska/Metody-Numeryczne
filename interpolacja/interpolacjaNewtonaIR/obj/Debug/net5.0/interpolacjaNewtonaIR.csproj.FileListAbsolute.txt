@@ -1,0 +1,16 @@
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\obj\Debug\net5.0\interpolacjaNewtonaIR.csproj.AssemblyReference.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\obj\Debug\net5.0\interpolacjaNewtonaIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\obj\Debug\net5.0\interpolacjaNewtonaIR.AssemblyInfoInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\obj\Debug\net5.0\interpolacjaNewtonaIR.AssemblyInfo.cs
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\obj\Debug\net5.0\interpolacjaNewtonaIR.csproj.CoreCompileInputs.cache
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\bin\Debug\net5.0\interpolacjaNewtonaIR.exe
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\bin\Debug\net5.0\interpolacjaNewtonaIR.deps.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\bin\Debug\net5.0\interpolacjaNewtonaIR.runtimeconfig.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\bin\Debug\net5.0\interpolacjaNewtonaIR.runtimeconfig.dev.json
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\bin\Debug\net5.0\interpolacjaNewtonaIR.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\bin\Debug\net5.0\ref\interpolacjaNewtonaIR.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\bin\Debug\net5.0\interpolacjaNewtonaIR.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\obj\Debug\net5.0\interpolacjaNewtonaIR.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\obj\Debug\net5.0\ref\interpolacjaNewtonaIR.dll
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\obj\Debug\net5.0\interpolacjaNewtonaIR.pdb
+C:\Users\urszu\OneDrive\Dokumenty\Metodynumeryczna\interpolacja\interpolacjaNewtonaIR\obj\Debug\net5.0\interpolacjaNewtonaIR.genruntimeconfig.cache
