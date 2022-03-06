@@ -4,17 +4,6 @@ namespace sieczne
 {
     class Program
     {
-        //  rozne wartosci epislon i ilosc iteracji w kazdej metodzie (tabelka)
-        // 25 stycznia
-        // 1 lutego poprawa
-        //  5 zadan
-        // bledy 
-        // interpolacje
-        // calkowanie
-        // aproksymacja
-        // nieliniowe 
-        //  (jedno narzucone)
-
         private static void sieczne(int a, int b, int n, double e)
         {
             double[] x = new double[n + 1];
